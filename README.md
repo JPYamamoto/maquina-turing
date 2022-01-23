@@ -4,6 +4,10 @@ Simula una máquina universal de Turing, que recibe la especificación de una m�
 
 Al finalizar la ejecución (si esta termina), decide si la cadena fue aceptada o no.
 
+## Equipo
+- David Hernández Uriostegui
+- Juan Pablo Yamamoto Zazueta
+
 ## Instalación
 El proyecto está programado en Haskell, utilizando la herramienta [`Stack`](https://docs.haskellstack.org/en/stable/README/).
 
